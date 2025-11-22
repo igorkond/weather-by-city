@@ -8,6 +8,7 @@ Visualize the temperature forecast for the next 24 hours in the specified city
 git clone https://github.com/igorkond/weather-by-city  
 cd weather-by-city  
 npm install  
+npm run build
 
 # Run server
 node dist/index.js  
