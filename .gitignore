@@ -3,7 +3,7 @@
 *.js.map
 *.d.ts
 *.d.ts.map
-!public/*.js #for projects whose frontend has plain js (not ts)
+!public/**/*.js #for projects whose frontend has plain js (not ts)
 
 # Logs
 logs
